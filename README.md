@@ -1,5 +1,5 @@
 <p align="center">
- Positon is a automated financial management platform.
+ Positon is a automated systematic financial management platform.
 </p>
 
 
